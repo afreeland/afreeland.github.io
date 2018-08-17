@@ -84,7 +84,7 @@ $(document).ready(function(){
         // This uses the window.location.origin property to retrieve the scheme, hostname, and 
         // port where the parent extension is currently running, so this string doesn't have
         // to be updated if the extension is deployed to a new location.
-        const popupUrl = `${window.location.origin}/forms-select/select-configure.html`;
+        const popupUrl = `https://afreeland.github.io/Tableau/Extensions/forms-select/select.html`;
 
         // Pass these two our configuration manager to allow user to make changes
         //tableau.extensions.settings.set(_key, JSON.stringify(configOpts));
