@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on afreeland</title>
-    <link>http://afreeland.com/posts/</link>
+    <link>https://afreeland.github.io/posts/</link>
     <description>Recent content in Posts on afreeland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Sep 2018 22:51:46 -0400</lastBuildDate>
     
-	<atom:link href="http://afreeland.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://afreeland.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dreams</title>
-      <link>http://afreeland.com/posts/dreams/</link>
+      <link>https://afreeland.github.io/posts/dreams/</link>
       <pubDate>Thu, 27 Sep 2018 22:51:46 -0400</pubDate>
       
-      <guid>http://afreeland.com/posts/dreams/</guid>
+      <guid>https://afreeland.github.io/posts/dreams/</guid>
       <description>If you have ever met me than it is probably obvious that I get excited about projects and building cool things. The only thing I think would be even sweeter would be if there was an awesome space where like minded people could get together and work on awesome stuff together.
 I would envision electronic components, 3d printers, laser cutters, CNC, drones and all other sorts of tools that people typically have limited access too.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://afreeland.com/posts/teaching/</link>
+      <link>https://afreeland.github.io/posts/teaching/</link>
       <pubDate>Thu, 27 Sep 2018 22:12:12 -0400</pubDate>
       
-      <guid>http://afreeland.com/posts/teaching/</guid>
+      <guid>https://afreeland.github.io/posts/teaching/</guid>
       <description>I have been an Adjunct teacher at West Virginia University at Parkersburg since August 2012 for Computer Science. Classes typically involve various aspects of web development from just starting out all the way to full fledge applications.
 I try to bring real life experiences into the classroom to give a glimpse into what to expect in the workplace. I make sure my classes incorporate version control software such as GitHub to help promote good practices and team collaboration.</description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>http://afreeland.com/posts/work/</link>
+      <link>https://afreeland.github.io/posts/work/</link>
       <pubDate>Wed, 26 Sep 2018 22:43:51 -0400</pubDate>
       
-      <guid>http://afreeland.com/posts/work/</guid>
+      <guid>https://afreeland.github.io/posts/work/</guid>
       <description>I work as a software engineer for Memorial Health System in Marietta, Ohio. I am currently on a Decision Support team that specializes in bringing business intelligence, analytics and integration into our healthcare system.
 Our primary focus is an in-house application called DataSuite. This cross-platform desktop app built in Electron allows us to distribute analytics and insight across various levels of the organization consistently, securely and reliably. Since access to data is so important in healthcare, this application is also available natively through IOS and Android devices via React-Native.</description>
     </item>
