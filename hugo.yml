@@ -6,7 +6,10 @@ theme: 'PaperMod'
 params:
   custom_css: 
     - "/css/style.css"
-  
+
+  assets:
+    disableFingerprinting: true 
+ 
   profileMode:
     enabled: true
     title: "Aaron Freeland"
