@@ -1,0 +1,15 @@
+{{ $src := .Get 0 }}
+{{ $alt := .Get 1 }}
+{{ $link := .Get 2 }}
+
+{{ if $link }}
+  <a href="{{ $link }}" class="logo-anchor" target="_new">
+{{ end }}
+
+<div class="logo-card">
+  <img src="{{ $src }}" alt="{{ $alt }}">
+</div>
+
+{{ if $link }}
+  </a>
+{{ end }}

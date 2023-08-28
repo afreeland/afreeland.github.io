@@ -1,0 +1,33 @@
+baseURL: 'https://afreeland.com/'
+languageCode: 'en-us'
+title: 'afreeland'
+theme: 'PaperMod'
+
+params:
+  custom_css: 
+    - "/css/style.css"
+  
+  profileMode:
+    enabled: true
+    title: "Aaron Freeland"
+    subtitle: "CyberSecurity Software Engineer"
+    imageUrl: "/images/cyber-art.webp"
+    imageWidth: 500
+    imageHeight: 500
+
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/afreeland"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/aaron-freeland-64939734/"
+ 
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: Just a chill place for projects, tech and security
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
